@@ -10,5 +10,4 @@ code: # code url
 citation: 'Guodao Sun, <strong>Tong Li</strong> & Ronghua Liang. &quot;SurVizor: visualizing and understanding the key content of surveillance videos.&quot; <i>Journal of Visualization, 2022.</i> 25(3).'
 ---
 
-<img src="/images/SurVizor.png" />            
-This paper focuses on the understanding and visual analysis of the key content of surveillance video. 
+<img src="/images/SurVizor.png" />
