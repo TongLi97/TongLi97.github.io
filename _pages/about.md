@@ -27,9 +27,4 @@ Education
 
 Copyright
 ======
-<img src="https://github.com/TongLi97/TongLi97.github.io/raw/master/images/copyright.png" width="30px" height="30px"> If you find personal academic material on this site useful for your research, please consider citing it!                            
-@misc{ tongli,           
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author = {Tong Li},                     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title =  {Tong Li's site},                            
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year = {2022},                                       
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;note = {\url{https://tongli97.github.io/}}  }           
+<img src="https://github.com/TongLi97/TongLi97.github.io/raw/master/images/copyright.png" width="30px" height="30px"> If you find personal academic material on this site useful for your research, please consider citing it!                                    
