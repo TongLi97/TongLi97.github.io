@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to Li's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,23 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+<img src="https://github.com/TongLi97/TongLi97.github.io/raw/master/images/clap.png" width="30px" height="30px">Welcome and thank you for visiting my site! I am currently a PH.D. student in Zhejiang University of Technology. I joined the Data Visualization Group at Zhejiang University of Technology [(ZjutVis)](https://zjutvis.org/) in 2019 and under the supervision of [Prof. Ronghua Liang](https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en) and [A/Prof. Guodao Sun](https://godoorsun.org/). I'm interested in exploring large data using interactive visual analytics. At present, my research focus is developing interactive visual analytics approaches for analyzing video data (associated with computer vision).                   
+Please feel free to look around and contact me if you have any comments!                      
+<img src="https://github.com/TongLi97/TongLi97.github.io/raw/master/images/email.png" width="25px" height="25px"> tongli970601@gmail.com | litong@zjut.edu.cn 
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+News (Last Update: 06/29/2022)
+======
+[May. 2022]  Our paper "MUSE: Visual Analysis of Musical Semantic Sequence" was accepted IEEE Transaction on Visualization and Computer Graph.                         
+[Apr. 2022]  Our paper "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" was accepted by Journal of Visualization.                        
+[Nov. 2021]  Our paper "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" was online published.                               
+[Jul. 2021]  I gave a talk of "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" on China Visualization and Visual Analytics Conference 2021.                             
+[Jun. 2021]  Our paper "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" was accepted by China Visualization and Visual Analytics Conference 2021.                             
+
+Education
+======
+<img src="https://github.com/TongLi97/TongLi97.github.io/raw/master/images/hat.png" width="30px" height="30px"> Ph.D. in Computer Science and Technology, Zhejiang University of Technology. 2019 - Now                          
+<img src="https://github.com/TongLi97/TongLi97.github.io/raw/master/images/hat.png" width="30px" height="30px"> B.E. in Software Engineering, Tianjin Normal University. 2015 - 2019                        
+
+Copyright
+======
+<img src="https://github.com/TongLi97/TongLi97.github.io/raw/master/images/copyright.png" width="30px" height="30px"> If you find personal academic material on this site useful for your research, please consider citing it!                            
+@misc{ tongli,           
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author = {Tong Li},                     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title =  {Tong Li's site},                            
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year = {2022},                                       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;note = {\url{https://tongli97.github.io/}}  }           
