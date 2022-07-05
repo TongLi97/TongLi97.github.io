@@ -14,13 +14,13 @@ redirect_from:
 
 News (Last Update: 06/29/2022)
 ======
-<strong>[May. 2022]</strong> Our paper "MUSE: Visual Analysis of Musical Semantic Sequence" was accepted by <strong>IEEE Transactions on Visualization and Computer Graphics</strong>.                                             
-<strong>[Apr. 2022]</strong> Our paper "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" was accepted by <strong>Journal of Visualization</strong>.             
-<strong>[Oct. 2021]</strong> The project I presided over won the <strong>School-level project</strong> in the 2021 "Canal Cup" Extracurricular Academic Science and Technology Fund Project.
-<strong>[Jul. 2021]</strong> I gave a talk of "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" on <strong>China Vis 2021</strong>.                                                                                    
-<strong>[Jun. 2021]</strong> Our paper "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" was accepted by <strong>China Vis 2021</strong>.      
-<strong>[Aug. 2020]</strong> The team I led won the <strong>National Third Prize</strong> in the 11th China University Student Service Outsourcing Innovation and Entrepreneurship Competition.      
-<strong>[Sep. 2019]</strong> I officially joined ZjutVis and started my visualization journey!                                 
+<strong>[May. 2022]</strong> Our paper "MUSE: Visual Analysis of Musical Semantic Sequence" was accepted by <strong>IEEE Transactions on Visualization and Computer Graphics</strong>.                                                                              
+<strong>[Apr. 2022]</strong> Our paper "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" was accepted by <strong>Journal of Visualization</strong>.                                                                 
+<strong>[Oct. 2021]</strong> The project I presided over won the <strong>School-level project</strong> in the 2021 "Canal Cup" Extracurricular Academic Science and Technology Fund Project.                                                              
+<strong>[Jul. 2021]</strong> I gave a talk of "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" on <strong>China Vis 2021</strong>.                                                                                                                                         
+<strong>[Jun. 2021]</strong> Our paper "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" was accepted by <strong>China Vis 2021</strong>.                                  
+<strong>[Aug. 2020]</strong> The team I led won the <strong>National Third Prize</strong> in the 11th China University Student Service Outsourcing Innovation and Entrepreneurship Competition.                                            
+<strong>[Sep. 2019]</strong> I officially joined ZjutVis and started my visualization journey!                                                                                                                                                                           
 
 Education
 ======
