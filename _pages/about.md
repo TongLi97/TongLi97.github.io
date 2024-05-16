@@ -27,6 +27,6 @@ Education
 <img src="/images/hat.png" width="30px" height="30px"> Ph.D. in Computer Science and Technology, Zhejiang University of Technology. 2019 - Now                          
 <img src="/images/hat.png" width="30px" height="30px"> B.E. in Software Engineering, Tianjin Normal University. 2015 - 2019                        
 
-Copyright
+Review
 ======
-<img src="/images/copyright.png" width="30px" height="30px"> If you find personal academic material on this site useful for your research, please consider citing it!                                    
+China Vis 2023、2024                                   
