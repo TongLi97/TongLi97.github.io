@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Li's Website"
+title: "Welcome to Tong's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
