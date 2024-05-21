@@ -1,5 +1,5 @@
 ---
-title: "Qutaber: task-based exploratory data analysis with enriched context awareness"
+title: "Qutaber: Task-based Exploratory Data Analysis with Enriched Context Awareness"
 collection: publications
 permalink: /publication/2023-08-01-jiang-qutaber
 date: 2023-08-01
