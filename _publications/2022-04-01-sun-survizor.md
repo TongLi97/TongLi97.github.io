@@ -1,5 +1,5 @@
 ---
-title: "SurVizor: visualizing and understanding the key content of surveillance videos"
+title: "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos"
 collection: publications
 permalink: /publication/2022-04-01-sun-survizor
 date: 2021-11-09
