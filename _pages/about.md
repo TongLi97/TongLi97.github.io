@@ -22,11 +22,12 @@ News (Last Update: 06/29/2022)
 <strong>[Aug. 2020]</strong> The team I led won the <strong>National Third Prize</strong> 🏆 in the 11th China University Student Service Outsourcing Innovation and Entrepreneurship Competition.                                            
 <strong>[Sep. 2019]</strong> I officially joined ZjutVis and started my visualization journey!                                                                                                                                                                           
 
-Education
+<!--Education
 ======
 <img src="/images/hat.png" width="30px" height="30px"> Ph.D. in Computer Science and Technology, Zhejiang University of Technology. 2019 - Now                          
-<img src="/images/hat.png" width="30px" height="30px"> B.E. in Software Engineering, Tianjin Normal University. 2015 - 2019                        
+<img src="/images/hat.png" width="30px" height="30px"> B.E. in Software Engineering, Tianjin Normal University. 2015 - 2019              -->
+          
 
 Review
 ======
-China Vis 2022、2023                                   
+China Vis 2022, 2023                                   
