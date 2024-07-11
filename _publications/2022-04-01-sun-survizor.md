@@ -7,7 +7,7 @@ venue: 'Journal of Visualization'
 paperurl: "/files/SurVizor.pdf"
 link: "https://doi.org/10.1007/s12650-021-00803-w"
 code: "https://github.com/TongLi97/SurVizor"
-citation: 'Guodao Sun*, <strong>Tong Li</strong> & Ronghua Liang. <em> Journal of Visualization, 2022. </em>'
+citation: 'Guodao Sun*, <strong>Tong Li</strong> & Ronghua Liang. <em> JoV, 2022. </em>'
 ---
 
 <img src="/images/SurVizor.png" />
