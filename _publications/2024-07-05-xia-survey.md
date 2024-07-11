@@ -7,4 +7,4 @@ venue: 'IEEE TCSVT'
 citation: 'Wang Xia, Guodao Sun*, <strong>Tong Li</strong>, Baofeng Chang, Jingwei Tang, Gefei Zhang & Ronghua Liang. <em> IEEE TCSVT, 2024. </em>'
 ---
 
-<img src="/images/SurVizor.png" />
+<img src="/images/xia.png" />
