@@ -30,8 +30,8 @@ News (Last Update: 06/29/2022)
 
 Review
 ======
-China Vis 2022, 2023, 2024
+<strong>China Vis</strong> 2022, 2023, 2024
 
-IEEE Vis 2024
+<strong>IEEE Vis</strong> 2024
 
-UbiComp/ISWC 2024, HAI 2024, ACM SUI 2024
+<strong>UbiComp/ISWC</strong> 2024, <strong>HAI</strong> 2024, <strong>ACM SUI</strong> 2024
