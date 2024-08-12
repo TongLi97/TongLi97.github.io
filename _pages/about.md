@@ -32,6 +32,6 @@ Review
 ======
 China Vis 2022, 2023, 2024
 
-UbiComp/ISWC 2024
+IEEE Vis 2024
 
-ACM SUI 2024
+UbiComp/ISWC 2024, HAI 2024, ACM SUI 2024
