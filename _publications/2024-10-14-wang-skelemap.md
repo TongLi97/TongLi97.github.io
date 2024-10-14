@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-10-14-wang-skelemap
 date: 2024-10-14
 venue: 'Journal of Visualization'
-paperurl: "/files/Skelemap.pdf"
+link: "[https://ieeexplore.ieee.org/document/10584546](https://link.springer.com/article/10.1007/s12650-024-01031-8)"
 citation: 'Yunchao Wang, Guodao Sun*, Zihao Zhu, <strong>Tong Li</strong> and Ronghua Liang. <em> jov, 2024</em>'
 ---
 
