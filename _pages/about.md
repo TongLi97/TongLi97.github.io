@@ -32,6 +32,8 @@ Review
 ======
 <strong>China Vis</strong> 2022, 2023, 2024
 
-<strong>IEEE Vis</strong> 2024
+<strong>IEEE Vis</strong> 2023, 2024
 
 <strong>UbiComp/ISWC</strong> 2024, <strong>HAI</strong> 2024, <strong>ACM SUI</strong> 2024
+
+<strong>ChinaGraph</strong> 2024
