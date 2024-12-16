@@ -1,5 +1,5 @@
 ---
-title: "Publication Table"
+title: ""
 collection: publications
 permalink: /publication/table
 layout: archive
