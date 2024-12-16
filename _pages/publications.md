@@ -19,8 +19,9 @@ author_profile: true
 
 ## Publications
 
+|   |   |
+|---|---|
 | <img src="/images/Skelemap.jpg" alt="Thumbnail" style="width: 300px; height: auto;">    | **skelemap: skeleton-based boundary growth for efficient and automated cartogram generation**<br>Yunchao Wang, Guodao Sun*, Zihao Zhu, **Tong Li** & Ronghua Liang. <br>*Journal of Visualization*, 2024. Accepted.<br>[**[Url]**](https://link.springer.com/article/10.1007/s12650-024-01031-8) |
-|:----------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="/images/xia.png" alt="Thumbnail" style="width: 300px; height: auto;">         | **Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation**<br>Wang Xia, Guodao Sun*, **Tong Li**, Baofeng Chang, Jingwei Tang, Gefei Zhang & Ronghua Liang. <br>*IEEE TCSVT*, 2024. Accepted.<br>[**[Paper]**](/files/xia.pdf) |
 | <img src="/images/Beyond.png" alt="Thumbnail" style="width: 300px; height: auto;">      | **Beyond Words: Unlocking Compositionality of Vision-Language Models with Visualization Insights**<br>**Tong Li**, Wang Xia, Jingwei Tang, Qi Jiang, Yunchao Wang & Guodao Sun*. <br>*China Vis*, 2024. Accepted.<br>[**[Paper]**](/files/Beyond.pdf) |
 | <img src="/images/Lander.png" alt="Thumbnail" style="width: 300px; height: auto;">      | **LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video**<br>**Tong Li**, Guodao Sun*, Baofeng Chang, Yunchao Wang, Qi Jiang, Yuanzhong Ying, Li Jiang, Haixia Wang & Ronghua Liang.<br>*IEEE THMS*, 2024. Accepted.<br>[**[Url]**](https://ieeexplore.ieee.org/document/10570041) |
