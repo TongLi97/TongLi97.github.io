@@ -166,7 +166,6 @@ incremental: false
 
 # Markdown Processing
 kramdown:
-  parse_block_html: true
   input: GFM
   hard_wrap: false
   auto_ids: true
