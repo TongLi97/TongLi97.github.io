@@ -1,8 +1,4 @@
----
-layout: archive
-title: "Publications(Last Update: 10/07/2024)"
-author_profile: true
----
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
