@@ -179,6 +179,9 @@ kramdown:
 
 # Collections
 collections:
+  pages:
+    output: true
+    permalink: /:path/
   publications:
     output: true
     permalink: /:collection/:path/
