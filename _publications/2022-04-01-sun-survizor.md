@@ -1,3 +1,10 @@
+---
+title: "Publication Table"
+collection: publications
+permalink: /publication/table
+layout: archive
+author_profile: true
+---
 
 |   |   |
 |---|---|
