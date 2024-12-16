@@ -30,6 +30,8 @@ News (Last Update: 06/29/2022)
 
 Review
 ======
+<strong>Euro Vis</strong> 2025
+
 <strong>China Vis</strong> 2022, 2023, 2024
 
 <strong>IEEE Vis</strong> 2023, 2024
