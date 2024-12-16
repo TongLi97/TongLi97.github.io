@@ -1,7 +1,7 @@
 
 |   |   |
 |---|---|
-| <img src="/images/CompoVis.png" alt="Thumbnail" style="width: 300px; height: auto;">    | **CompoVis: Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt**<br>**Tong Li**, Guodao Sun, Xueqian Zheng, Qi Jiang, Wang Xia, Xu Tan, Haidong Gao, Jingwei Tang, Yunchao Wang, Haixia Wang & Ronghua Liang. <br>*EuroVis*, 2024. in submission.<br>
+| <img src="/images/CompoVis.png" alt="Thumbnail" style="width: 300px; height: auto;">    | **CompoVis: Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt**<br>**Tong Li**, Guodao Sun*, Xueqian Zheng, Qi Jiang, Wang Xia, Xu Tan, Haidong Gao, Jingwei Tang, Yunchao Wang, Haixia Wang & Ronghua Liang. <br>*EuroVis*, 2024. in submission.<br>
 | <img src="/images/Skelemap.jpg" alt="Thumbnail" style="width: 300px; height: auto;">    | **skelemap: skeleton-based boundary growth for efficient and automated cartogram generation**<br>Yunchao Wang, Guodao Sun*, Zihao Zhu, **Tong Li** & Ronghua Liang. <br>*Journal of Visualization*, 2024. Accepted.<br>[**[Url]**](https://link.springer.com/article/10.1007/s12650-024-01031-8) |
 | <img src="/images/xia.png" alt="Thumbnail" style="width: 300px; height: auto;">         | **Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation**<br>Wang Xia, Guodao Sun*, **Tong Li**, Baofeng Chang, Jingwei Tang, Gefei Zhang & Ronghua Liang. <br>*IEEE TCSVT*, 2024. Accepted.<br>[**[Paper]**](/files/xia.pdf) |
 | <img src="/images/Beyond.png" alt="Thumbnail" style="width: 300px; height: auto;">      | **Beyond Words: Unlocking Compositionality of Vision-Language Models with Visualization Insights**<br>**Tong Li**, Wang Xia, Jingwei Tang, Qi Jiang, Yunchao Wang & Guodao Sun*. <br>*China Vis*, 2024. Accepted.<br>[**[Paper]**](/files/Beyond.pdf) |
@@ -10,7 +10,3 @@
 | <img src="/images/Storyline.png" alt="Thumbnail" style="width: 300px; height: auto;">   | **E2Storyline: Visualizing the Relationship with Triplet Entities and Event Discovery**<br>Yunchao Wang, Guodao Sun*, Zihao Zhu, **Tong Li**, Ling Chen & Ronghua Liang.<br>*ACM TIST*, 2023. Accepted.<br>[**[Paper]**](/files/Storyline.pdf)      |
 | <img src="/images/MUSE.png" alt="Thumbnail" style="width: 300px; height: auto;">        | **MUSE: Visual Analysis of Musical Semantic Sequence**<br>Baofeng Chang, Guodao Sun*, **Tong Li**, Houchao Huang, Ronghua Liang.<br>*IEEE TVCG*, 2022. Accepted.<br>[**[Paper]**](/files/MUSE.pdf)                                                |
 | <img src="/images/SurVizor.png" alt="Thumbnail" style="width: 300px; height: auto;">    | **SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos**<br>Guodao Sun*, **Tong Li**, & Ronghua Liang<br>*Journal of Visualization*, 2021. Accepted.<br>[**[Paper]**](/files/SurVizor.pdf)                             |
-
-
-
-<!-- End of each publication entry -->
