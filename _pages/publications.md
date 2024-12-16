@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications(Last Update: 10/07/2024)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
