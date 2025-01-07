@@ -14,17 +14,17 @@ redirect_from:
 
 News (Last Update: 12/20/2024)
 ======
-<strong>[Dec. 2024]</strong> Our paper "Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt" was submitted to <strong>Euro Vis 2025</strong>.
+[Dec. 2024] Our paper "Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt" was submitted to <strong>Euro Vis 2025</strong>.
 
-<strong>[Aug. 2024]</strong> Our paper "LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video" was accepted by <strong>IEEE THMS</strong>. 🎉
+[Aug. 2024] Our paper "LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video" was accepted by <strong>IEEE THMS</strong>. 🎉
 
-<strong>[May. 2023]</strong> The team I led won the <strong>National Third Prize</strong> 🏆 in the 8th China Graduate Smart City Technology and Design Competition.
+[May. 2023] The team I led won the <strong>National Third Prize</strong> 🏆 in the 8th China Graduate Smart City Technology and Design Competition.
 
-<strong>[May. 2022]</strong> Our paper "MUSE: Visual Analysis of Musical Semantic Sequence" was accepted by <strong>IEEE TVCG</strong>. 🎉
+[May. 2022] Our paper "MUSE: Visual Analysis of Musical Semantic Sequence" was accepted by <strong>IEEE TVCG</strong>. 🎉
 
-<strong>[Jun. 2021]</strong> Our paper "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" was accepted by <strong>China Vis 2021</strong>.                                  
+[Jun. 2021] Our paper "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" was accepted by <strong>China Vis 2021</strong>.                                  
 
-<strong>[Aug. 2020]</strong> The team I led won the <strong>National Third Prize</strong> 🏆 in the 11th China University Student Service Outsourcing Innovation and Entrepreneurship Competition.                                            
+[Aug. 2020] The team I led won the <strong>National Third Prize</strong> 🏆 in the 11th China University Student Service Outsourcing Innovation and Entrepreneurship Competition.                                            
                                                                                                                                                                     
 
 <!--Education
