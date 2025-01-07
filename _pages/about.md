@@ -16,7 +16,7 @@ News (Last Update: 12/20/2024)
 ======
 <strong>[Dec. 2024]</strong> Our paper "Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt" was submitted to <strong>Euro Vis 2025</strong>.
 
-<strong>[May. 2023]</strong> The team I led won the <strong>National Third Prize</strong> 🏆 in the 8th China Graduate Smart City Technology and Creative Design Competition.
+<strong>[May. 2023]</strong> The team I led won the <strong>National Third Prize</strong> 🏆 in the 8th China Graduate Smart City Technology and Design Competition.
 
 <strong>[May. 2022]</strong> Our paper "LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video" was accepted by <strong>IEEE THMS</strong>. 🎉
 
