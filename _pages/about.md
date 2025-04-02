@@ -31,9 +31,9 @@ Review
 ======
 <strong>IEEE Vis</strong> 2023, 2024, <strong>Euro Vis</strong> 2025, <strong>China Vis</strong> 2022, 2023, 2024, <strong>ChinaGraph</strong> 2024
 
-<strong>ICLR</strong> 2024, <strong>UbiComp/ISWC</strong> 2024, <strong>CogSci</strong> 2025, <strong>HAI</strong> 2024, <strong>ACM SUI</strong> 2024
+<strong>ICLR</strong> 2024, <strong>UbiComp/ISWC</strong> 2024, <strong>CogSci</strong> 2025, <strong>CGI</strong> 2025, <strong>HAI</strong> 2024, <strong>ACM SUI</strong> 2024
 
-<strong>IJCHI</strong>, <strong>IEEE THMS</strong>
+<strong>IJCHI</strong>, <strong>IEEE THMS</strong>, <strong>IEEE TCSVT</strong>
 
 
 
