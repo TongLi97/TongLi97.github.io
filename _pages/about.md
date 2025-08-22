@@ -14,9 +14,8 @@ redirect_from:
 
 News (Last Update: 12/20/2024)
 ======
-[Dec. 2024] Our paper "Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt" was submitted to <strong>IEEE TMM</strong>.\
+[Aug. 2025] Our paper "Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt" was accepted by <strong>IEEE TMM</strong>. 🎉\
 [Aug. 2024] Our paper "LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video" was accepted by <strong>IEEE THMS</strong>. 🎉\
-[May. 2023] The team I led won the <strong>National Third Prize</strong> 🏆 in the 8th China Graduate Smart City Technology and Design Competition.\
 [May. 2022] Our paper "MUSE: Visual Analysis of Musical Semantic Sequence" was accepted by <strong>IEEE TVCG</strong>. 🎉\
 [Jun. 2021] Our paper "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" was accepted by <strong>China Vis 2021</strong>.                                                                    
                                                                                                                                                                     
