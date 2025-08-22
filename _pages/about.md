@@ -33,7 +33,7 @@ Review
 <strong>ICLR</strong> 2024, <strong>UbiComp/ISWC</strong> 2024, <strong>CogSci</strong> 2025, <strong>CUI</strong> 2025, <strong>CGI</strong> 2025, <strong>HAI</strong> 2024, <strong>ACM SUI</strong> 2024,
 <strong>ICIS</strong> 2025
 
-<strong>IJCHI</strong>, <strong>IEEE THMS</strong>, <strong>IEEE TCSVT</strong>, <strong>IEEE TMM</strong>, <strong>SIVP</strong>
+<strong>IJCHI</strong>, <strong>IEEE THMS</strong>, <strong>IEEE TCSVT</strong>, <strong>IEEE TMM</strong>, <strong>SIVP (Springer Nature)</strong>
 
 
 
