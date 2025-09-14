@@ -21,7 +21,7 @@ Recent Publication 🎉
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/CompoVis.png" alt="CompoVis Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 4px; left: 4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TMM</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TMM</div>
 </div>
 <div style="flex: 1;">
 <strong>CompoVis: Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt</strong><br>
@@ -40,7 +40,7 @@ Recent Publication 🎉
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/AutoMA.png" alt="LANDER Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 4px; left: 4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE THMS</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Pacific Vis 2025</div>
 </div>
 <div style="flex: 1;">
 <strong>LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video</strong><br>
@@ -58,7 +58,7 @@ Recent Publication 🎉
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/PacificVis2025.png" alt="MUSE Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TVCG</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Pacific Vis 2025</div>
 </div>
 <div style="flex: 1;">
 <strong>MUSE: Visual Analysis of Musical Semantic Sequence</strong><br>
