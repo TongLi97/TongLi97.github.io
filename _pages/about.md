@@ -9,9 +9,9 @@ redirect_from:
 ---
 <img src="/images/clap.png" width="30px" height="30px"> **Welcome and thank you for visiting my site!** 
 
-I am currently a <span style="color: #58a6ff;">Ph.D. student</span> at <span style="color: #58a6ff;">Zhejiang University of Technology</span>, where I joined the [Data Visualization Group (ZjutVis)](https://zjutvis.org/) in 2019 under the supervision of [Prof. Ronghua Liang](https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en) and [Prof. Guodao Sun](https://godoorsun.org/). 
+I am currently a Ph.D. student</span> at Zhejiang University of Technology, where I joined the [Data Visualization Group (ZjutVis)](https://zjutvis.org/) in 2019 under the supervision of [Prof. Ronghua Liang](https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en) and [Prof. Guodao Sun](https://godoorsun.org/). 
 
-My research focuses on <span style="color: #58a6ff;">interactive visual analysis methods for multimodal (image, video, text) data and cross-modal understanding</span> — bridging human insight with computational intelligence in multimodal understanding.
+My research focuses on <span style="color: #2174A8;">interactive visual analysis methods for multimodal (image, video, text) data and cross-modal understanding</span> — bridging human insight with computational intelligence in multimodal understanding.
 
 👀 **Please feel free to explore my work and reach out with any questions or comments!**
 
