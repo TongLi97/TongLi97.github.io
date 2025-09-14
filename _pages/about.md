@@ -7,13 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/clap.png" width="30px" height="30px"> **Welcome and thank you for visiting my site!** 
 
 I am currently a Ph.D. student</span> at Zhejiang University of Technology, where I joined the [Data Visualization Group (ZjutVis)](https://zjutvis.org/) in 2019 under the supervision of [Prof. Ronghua Liang](https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en) and [Prof. Guodao Sun](https://godoorsun.org/). My research focuses on interactive visual analysis methods for multimodal (image, video, text) data and cross-modal understanding — bridging human insight with computational intelligence in multimodal understanding.
 
-👀 Please feel free to explore my work and reach out with any questions or comments!
-
-<img src="/images/email.png" width="25px" height="25px"> litong@zjut.edu.cn
+<img src="/images/clap.png" width="30px" height="30px"> **Welcome and thank you for visiting my site!** \
+<img src="/images/email.png" width="25px" height="25px"> **litong@zjut.edu.cn**
 
 Recent Publication 🎉
 ======
