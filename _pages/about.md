@@ -22,7 +22,7 @@ Recent Publication 🎉
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
-<img src="/images/compovis-paper.jpg" alt="CompoVis Paper" width="250" style="border-radius: 8px;">
+<img src="/images/CompoVis.png" alt="CompoVis Paper" width="250" style="border-radius: 8px;">
 <div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TMM</div>
 </div>
 <div style="flex: 1;">
@@ -41,7 +41,7 @@ Recent Publication 🎉
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
-<img src="/images/lander-paper.jpg" alt="LANDER Paper" width="250" style="border-radius: 8px;">
+<img src="/images/AutoMA.png" alt="LANDER Paper" width="250" style="border-radius: 8px;">
 <div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE THMS</div>
 </div>
 <div style="flex: 1;">
@@ -59,7 +59,7 @@ Recent Publication 🎉
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
-<img src="/images/muse-paper.jpg" alt="MUSE Paper" width="250" style="border-radius: 8px;">
+<img src="/images/PacificVis2025.png" alt="MUSE Paper" width="250" style="border-radius: 8px;">
 <div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TVCG</div>
 </div>
 <div style="flex: 1;">
