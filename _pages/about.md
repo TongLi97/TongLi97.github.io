@@ -24,7 +24,7 @@ Recent Publication 🎉
 <div style="flex: 1;">
 <strong>CompoVis: Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt</strong><br>
 <span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Xueqian Zheng, Qi Jiang, Yue Wang & Ronghua Liang<br><br>
-<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 10px 0; font-size: 14px; color: #1B5A87;">
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
 ✅ Accepted by <strong>IEEE Transactions on Multimedia (TMM)</strong>, August 2025
 </div>
 <a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
@@ -43,7 +43,7 @@ Recent Publication 🎉
 <div style="flex: 1;">
 <strong>LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video</strong><br>
 <span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Ronghua Liang & other authors<br><br>
-<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 10px 0; font-size: 14px; color: #1B5A87;">
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
 ✅ Accepted by <strong>IEEE Transactions on Human-Machine Systems (THMS)</strong>, August 2024
 </div>
 <a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
@@ -61,7 +61,7 @@ Recent Publication 🎉
 <div style="flex: 1;">
 <strong>MUSE: Visual Analysis of Musical Semantic Sequence</strong><br>
 <span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Ronghua Liang & other authors<br><br>
-<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 10px 0; font-size: 14px; color: #1B5A87;">
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
 ✅ Accepted by <strong>IEEE Transactions on Visualization and Computer Graphics (TVCG)</strong>, May 2022
 </div>
 <a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
