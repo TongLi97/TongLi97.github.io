@@ -23,17 +23,17 @@ Recent Publication 🎉
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/compovis-paper.jpg" alt="CompoVis Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #58a6ff; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TMM</div>
+<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TMM</div>
 </div>
 <div style="flex: 1;">
 <strong>CompoVis: Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt</strong><br>
-<span style="color: #58a6ff;">Tong Li</span>, Guodao Sun, Xueqian Zheng, Qi Jiang, Yue Wang & Ronghua Liang<br><br>
-<div style="background-color: #dafbe1; border-left: 4px solid #28a745; padding: 8px 12px; border-radius: 4px; margin: 10px 0; font-size: 14px;">
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Xueqian Zheng, Qi Jiang, Yue Wang & Ronghua Liang<br><br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 10px 0; font-size: 14px; color: #1B5A87;">
 ✅ Accepted by <strong>IEEE Transactions on Multimedia (TMM)</strong>, August 2025
 </div>
-<a href="#" style="color: #58a6ff; text-decoration: none; margin-right: 15px;">[Paper]</a>
-<a href="#" style="color: #58a6ff; text-decoration: none; margin-right: 15px;">[Dataset]</a>
-<a href="#" style="color: #58a6ff; text-decoration: none;">[Algorithm]</a>
+<a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
+<a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
+<a href="#" style="color: #2174A8; text-decoration: none;">[Algorithm]</a>
 </div>
 </div>
 
@@ -42,16 +42,16 @@ Recent Publication 🎉
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/lander-paper.jpg" alt="LANDER Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #58a6ff; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE THMS</div>
+<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE THMS</div>
 </div>
 <div style="flex: 1;">
 <strong>LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video</strong><br>
-<span style="color: #58a6ff;">Tong Li</span>, Guodao Sun, Ronghua Liang & other authors<br><br>
-<div style="background-color: #dafbe1; border-left: 4px solid #28a745; padding: 8px 12px; border-radius: 4px; margin: 10px 0; font-size: 14px;">
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Ronghua Liang & other authors<br><br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 10px 0; font-size: 14px; color: #1B5A87;">
 ✅ Accepted by <strong>IEEE Transactions on Human-Machine Systems (THMS)</strong>, August 2024
 </div>
-<a href="#" style="color: #58a6ff; text-decoration: none; margin-right: 15px;">[Paper]</a>
-<a href="#" style="color: #58a6ff; text-decoration: none;">[Code]</a>
+<a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
+<a href="#" style="color: #2174A8; text-decoration: none;">[Code]</a>
 </div>
 </div>
 
@@ -60,18 +60,18 @@ Recent Publication 🎉
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/muse-paper.jpg" alt="MUSE Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #58a6ff; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TVCG</div>
+<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TVCG</div>
 </div>
 <div style="flex: 1;">
 <strong>MUSE: Visual Analysis of Musical Semantic Sequence</strong><br>
-<span style="color: #58a6ff;">Tong Li</span>, Guodao Sun, Ronghua Liang & other authors<br><br>
-<div style="background-color: #dafbe1; border-left: 4px solid #28a745; padding: 8px 12px; border-radius: 4px; margin: 10px 0; font-size: 14px;">
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Ronghua Liang & other authors<br><br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 10px 0; font-size: 14px; color: #1B5A87;">
 ✅ Accepted by <strong>IEEE Transactions on Visualization and Computer Graphics (TVCG)</strong>, May 2022
 </div>
-<a href="#" style="color: #58a6ff; text-decoration: none; margin-right: 15px;">[Paper]</a>
-<a href="#" style="color: #58a6ff; text-decoration: none;">[Demo]</a>
+<a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
+<a href="#" style="color: #2174A8; text-decoration: none;">[Demo]</a>
 </div>
-</div>                                               
+</div>                              
                                                                                                                                                                     
 
 <!--Education
