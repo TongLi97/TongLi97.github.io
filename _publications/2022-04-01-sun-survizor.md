@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Publications"
 collection: publications
 permalink: /publication/table
-layout: archive
+layout: single
 author_profile: true
 ---
 
