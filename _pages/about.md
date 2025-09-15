@@ -42,7 +42,7 @@ Recent Publication 🎉
 </div>
 <div style="flex: 1;">
 <strong>Probing the Compositional Understanding in VLMs with Visualization Representation and Insights</strong><br>
-<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Xueqian Zheng, Haixia Wang & Ronghua Liang<br><br>
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Xueqian Zheng, Haixia Wang & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
 ✅ Accepted by <strong>IEEE Pacific Visualization Conference (PacificVis)</strong>, May 2025
 </div>
