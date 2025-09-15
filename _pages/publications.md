@@ -8,7 +8,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/CompoVis.png" alt="CompoVis Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TMM</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TMM</div>
 </div>
 <div style="flex: 1;">
 <strong>CompoVis: Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt</strong><br>
@@ -26,7 +26,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/AutoMA.png" alt="AutoMA Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">PacificVis</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">PacificVis</div>
 </div>
 <div style="flex: 1;">
 <strong>AutoMA: Automated Generation of Multi-level Annotations for Time Series Visualization</strong><br>
@@ -43,7 +43,7 @@ Qi Jiang, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Jingwei Tan
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/PacificVis2025.png" alt="PacificVis2025 Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">PacificVis</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">PacificVis</div>
 </div>
 <div style="flex: 1;">
 <strong>Probing the Compositional Understanding in VLMs with Visualization Representation and Insights</strong><br>
@@ -60,7 +60,7 @@ Qi Jiang, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Jingwei Tan
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/Skelemap.jpg" alt="Skelemap Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">JoV</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">JoV</div>
 </div>
 <div style="flex: 1;">
 <strong>skelemap: skeleton-based boundary growth for efficient and automated cartogram generation</strong><br>
@@ -77,7 +77,7 @@ Yunchao Wang, Guodao Sun*, Zihao Zhu, <span style="color: #2174A8;">Tong Li</spa
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/xia.png" alt="Video Visualization Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TCSVT</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TCSVT</div>
 </div>
 <div style="flex: 1;">
 <strong>Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation</strong><br>
@@ -94,7 +94,7 @@ Wang Xia, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Baofeng Cha
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/Lander.png" alt="LANDER Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE THMS</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE THMS</div>
 </div>
 <div style="flex: 1;">
 <strong>LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video</strong><br>
@@ -111,7 +111,7 @@ Wang Xia, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Baofeng Cha
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/Qutaber.png" alt="Qutaber Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">ChinaVis</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">ChinaVis</div>
 </div>
 <div style="flex: 1;">
 <strong>Qutaber: Task-based Exploratory Data Analysis with Enriched Context Awareness</strong><br>
@@ -128,7 +128,7 @@ Qi Jiang, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Jingwei Tan
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/Storyline.png" alt="E2Storyline Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">ACM TIST</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">ACM TIST</div>
 </div>
 <div style="flex: 1;">
 <strong>E2Storyline: Visualizing the Relationship with Triplet Entities and Event Discovery</strong><br>
@@ -145,7 +145,7 @@ Yunchao Wang, Guodao Sun*, Zihao Zhu, <span style="color: #2174A8;">Tong Li</spa
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/MUSE.png" alt="MUSE Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TVCG</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TVCG</div>
 </div>
 <div style="flex: 1;">
 <strong>MUSE: Visual Analysis of Musical Semantic Sequence</strong><br>
@@ -162,7 +162,7 @@ Baofeng Chang, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Houcha
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/SurVizor.png" alt="SurVizor Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 8px; left: 8px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">ChinaVis</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">ChinaVis</div>
 </div>
 <div style="flex: 1;">
 <strong>SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos</strong><br>
