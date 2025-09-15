@@ -16,7 +16,7 @@ I am currently a Ph.D. student at Zhejiang University of Technology, where I joi
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
-<img src="/images/CompoVis.png" alt="ChartMind Paper" width="250" style="border-radius: 8px;">
+<img src="/images/ChartMind_CHI2026.png" alt="ChartMind Paper" width="250" style="border-radius: 8px;">
 <div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Submitted</div>
 </div>
 <div style="flex: 1;">
