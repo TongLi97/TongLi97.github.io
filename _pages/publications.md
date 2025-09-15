@@ -15,8 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Publications
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/CompoVis.png" alt="CompoVis Paper" width="250" style="border-radius: 8px;">
