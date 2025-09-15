@@ -5,16 +5,6 @@ layout: single
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/CompoVis.png" alt="CompoVis Paper" width="250" style="border-radius: 8px;">
