@@ -60,7 +60,7 @@ I am currently a Ph.D. student at Zhejiang University of Technology, where I joi
 <strong>Probing the Compositional Understanding in VLMs with Visualization Representation and Insights</strong><br>
 <span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Xueqian Zheng, Haixia Wang & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
-✅ Accepted by <strong>IEEE Pacific Visualization Conference (PacificVis)</strong>, May 2025
+✅ Accepted by <strong>IEEE Pacific Visualization Conference (PacificVis)</strong>, 2025
 </div>
 <a href="/files/PacificVis2025_Poster_A0.pdf" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Poster]</a>
 </div>
@@ -73,14 +73,19 @@ I am currently a Ph.D. student at Zhejiang University of Technology, where I joi
 <img src="/images/hat.png" width="30px" height="30px"> B.E. in Software Engineering, Tianjin Normal University. 2015 - 2019              -->
           
 
-## Review
+## Academic Service & Review
 
-<strong>IEEE Vis</strong> 2023, 2024, <strong>Euro Vis</strong> 2025, <strong>China Vis</strong> 2022, 2023, 2024, <strong>ChinaGraph</strong> 2024
+**Conference Reviewer**
+- **Visualization**: <span style="color: #2174A8;">IEEE Vis</span> (2023, 2024) • <span style="color: #2174A8;">Euro Vis</span> (2025) • <span style="color: #2174A8;">China Vis</span> (2022, 2023, 2024) • <span style="color: #2174A8;">China Graph</span> (2024)
+- **Machine Learning & AI**: <span style="color: #2174A8;">ICLR</span> (2024) • <span style="color: #2174A8;">CogSci</span> (2025)
+- **Human-Computer Interaction**: <span style="color: #2174A8;">UbiComp/ISWC</span> (2024) • <span style="color: #2174A8;">CUI</span> (2025) • <span style="color: #2174A8;">HAI</span> (2024) • <span style="color: #2174A8;">ACM SUI</span> (2024)
+- **Others**: <span style="color: #2174A8;">CGI</span> (2025) • <span style="color: #2174A8;">ICIS</span> (2025)
 
-<strong>ICLR</strong> 2024, <strong>UbiComp/ISWC</strong> 2024, <strong>CogSci</strong> 2025, <strong>CUI</strong> 2025, <strong>CGI</strong> 2025, <strong>HAI</strong> 2024, <strong>ACM SUI</strong> 2024,
-<strong>ICIS</strong> 2025
-
-<strong>IJCHI</strong>, <strong>IEEE THMS</strong>, <strong>IEEE TCSVT</strong>, <strong>IEEE TMM</strong>
+**Journal Reviewer**
+- <span style="color: #2174A8;">International Journal of Computer-Human Interaction (IJCHI)</span>
+- <span style="color: #2174A8;">IEEE Transactions on Human-Machine Systems (THMS)</span>
+- <span style="color: #2174A8;">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</span>
+- <span style="color: #2174A8;">IEEE Transactions on Multimedia (TMM)</span>
 
 
 
