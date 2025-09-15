@@ -82,10 +82,10 @@ I am currently a Ph.D. student at Zhejiang University of Technology, where I joi
 - **Others**: <span style="color: #2174A8;">CGI</span> (2025) • <span style="color: #2174A8;">ICIS</span> (2025)
 
 **Journal Reviewer**
-- <span style="color: #2174A8;">International Journal of Computer-Human Interaction (IJCHI)</span>
-- <span style="color: #2174A8;">IEEE Transactions on Human-Machine Systems (THMS)</span>
-- <span style="color: #2174A8;">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</span>
-- <span style="color: #2174A8;">IEEE Transactions on Multimedia (TMM)</span>
+- International Journal of Computer-Human Interaction (IJCHI)
+- IEEE Transactions on Human-Machine Systems (THMS)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Transactions on Multimedia (TMM)
 
 
 
