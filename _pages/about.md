@@ -10,11 +10,9 @@ redirect_from:
 
 I am currently a Ph.D. student at Zhejiang University of Technology, where I joined the [Data Visualization Group (ZjutVis)](https://zjutvis.org/) in 2019 under the supervision of [Prof. Ronghua Liang](https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en) and [Prof. Guodao Sun](https://godoorsun.org/). My research focuses on interactive visual analysis methods for multimodal (image, video, text) data and cross-modal understanding — bridging human insight with computational intelligence in multimodal understanding.
 
-<img src="/images/clap.png" width="30px" height="30px"> **Welcome and thank you for visiting my site!** \
 <img src="/images/email.png" width="25px" height="25px"> **litong@zjut.edu.cn**
 
-Recent Publication 🎉
-======
+## Recent Publication 🎉
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
@@ -75,8 +73,8 @@ Recent Publication 🎉
 <img src="/images/hat.png" width="30px" height="30px"> B.E. in Software Engineering, Tianjin Normal University. 2015 - 2019              -->
           
 
-Review
-======
+## Review
+
 <strong>IEEE Vis</strong> 2023, 2024, <strong>Euro Vis</strong> 2025, <strong>China Vis</strong> 2022, 2023, 2024, <strong>ChinaGraph</strong> 2024
 
 <strong>ICLR</strong> 2024, <strong>UbiComp/ISWC</strong> 2024, <strong>CogSci</strong> 2025, <strong>CUI</strong> 2025, <strong>CGI</strong> 2025, <strong>HAI</strong> 2024, <strong>ACM SUI</strong> 2024,
