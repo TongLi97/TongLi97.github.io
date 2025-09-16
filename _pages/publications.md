@@ -17,6 +17,7 @@ author_profile: true
 🚀 <strong>ACM Conference on Human Factors in Computing Systems (CHI)</strong>, 2026
 </div>
 <a href="https://huggingface.co/datasets/guodaosun/Mega60k" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
+<a href="https://tongli97.github.io/ChartMind/" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Project Web]</a>
 </div>
 </div>
 
