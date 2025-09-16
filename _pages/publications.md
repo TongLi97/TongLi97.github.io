@@ -50,7 +50,7 @@ author_profile: true
 <strong>AutoMA: Automated Generation of Multi-level Annotations for Time Series Visualization</strong><br>
 Qi Jiang, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Jingwei Tang, Wang Xia, Yunchao Wang, Li Jiang & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
-✅ <strong>IEEE Pacific Visualization Symposium (PacificVis)</strong>, 2025
+✅ <strong>IEEE Pacific Visualization Conference (PacificVis)</strong>, 2025
 </div>
 <a href="https://ieeexplore.ieee.org/document/11021060" style="color: #2174A8; text-decoration: none;">[Paper]</a>
 </div>
@@ -67,7 +67,7 @@ Qi Jiang, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Jingwei Tan
 <strong>Probing the Compositional Understanding in VLMs with Visualization Representation and Insights</strong><br>
 <span style="color: #2174A8;">Tong Li</span>, Guodao Sun*, Xueqian Zheng, Haixia Wang & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
-✅ <strong>IEEE Pacific Visualization Symposium (PacificVis)</strong>, 2025
+✅ <strong>IEEE Pacific Visualization Conference (PacificVis)</strong>, 2025
 </div>
 <a href="/files/PacificVis2025_Poster_A0.pdf" style="color: #2174A8; text-decoration: none;">[Poster]</a>
 </div>
