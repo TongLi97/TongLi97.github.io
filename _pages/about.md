@@ -21,7 +21,7 @@ I am currently a Ph.D. student at Zhejiang University of Technology, where I joi
 </div>
 <div style="flex: 1;">
 <strong>ChartMind: Benchmark and Reasoning Insights of Multimodal Chart Question Answering</strong><br>
-<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Shunkai Wang, Zuoyu Tang, Yang Shu & other authors<br>
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Shunkai Wang, Zuoyu Tang, Yang Shu, Xueqian Zheng, Haixia Wang & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
 🚀 Submitted to <strong> ACM Conference on Human Factors in Computing Systems (CHI)</strong>, 2026
 </div>
@@ -40,7 +40,7 @@ I am currently a Ph.D. student at Zhejiang University of Technology, where I joi
 </div>
 <div style="flex: 1;">
 <strong>CompoVis: Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt</strong><br>
-<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Xueqian Zheng, Qi Jiang, Wang Xia & other authors<br>
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Xueqian Zheng, Qi Jiang, Wang Xia, Xu Tan, Haidong Gao, Haixia Wang & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
 ✅ Accepted by <strong>IEEE Transactions on Multimedia (TMM)</strong>, August 2025
 </div>
