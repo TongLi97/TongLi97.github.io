@@ -87,6 +87,7 @@ I am currently a Ph.D. student at Zhejiang University of Technology, where I joi
 - IEEE Transactions on Human-Machine Systems (THMS)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Multimedia (TMM)
+- npj Heritage Science (Nature Portfolio)
 
 
 
