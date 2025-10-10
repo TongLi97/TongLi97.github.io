@@ -26,8 +26,7 @@ Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Zhou Liu, Zhentao Z
 🚀 Submitted to <strong> Scientific Data (Nature) </strong>
 </div>
 <a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
-<a href="https://huggingface.co/datasets/guodaosun/Mega60k" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
-<a href="https://tongli97.github.io/ChartMind/" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Project Web]</a>
+<a href="https://github.com/zhengzhent/MegaCQA" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
 </div>
 </div>
 
