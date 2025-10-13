@@ -12,7 +12,7 @@ author_profile: true
 </div>
 <div style="flex: 1;">
 <strong>MegaCQA: A chart question answering dataset for general visual understanding</strong><br>
-XueQian Zheng, <span style="color: #2174A8;">Tong Li</span>, Zhou Liu, Zhentao Zheng, Xuhui Ma, Guodao Sun*, Qi Jiang* & Ronghua Liang<br>
+Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Zhou Liu, Zhentao Zheng, Xuhui Ma, Guodao Sun*, Qi Jiang* & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
 🚀 <strong>Scientific Data</strong> (Nature), 2025
 </div>
@@ -29,7 +29,7 @@ XueQian Zheng, <span style="color: #2174A8;">Tong Li</span>, Zhou Liu, Zhentao Z
 </div>
 <div style="flex: 1;">
 <strong>ChartMind: Benchmark and Reasoning Insights of Multimodal Chart Question Answering</strong><br>
-<span style="color: #2174A8;">Tong Li</span>, Guodao Sun*, Shunkai Wang, Zuoyu Tang, Yang Shu & others<br>
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun*, Shunkai Wang, Zuoyu Tang, Yang Shu, Xueqian Zheng & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
 🚀 <strong>ACM Conference on Human Factors in Computing Systems (CHI)</strong>, 2026
 </div>
