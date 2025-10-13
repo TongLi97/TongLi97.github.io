@@ -95,10 +95,10 @@ Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Zhou Liu, Zhentao Z
 ## Academic Service & Review
 
 **Conference Reviewer**
-- **Visualization**: <span style="color: #2174A8;">IEEE Vis</span> (2023, 2024) • <span style="color: #2174A8;">Euro Vis</span> (2025) • <span style="color: #2174A8;">China Vis</span> (2022, 2023, 2024) • <span style="color: #2174A8;">China Graph</span> (2024)
-- **Machine Learning & AI**: <span style="color: #2174A8;">ICLR</span> (2024) • <span style="color: #2174A8;">CogSci</span> (2025)
-- **Human-Computer Interaction**: <span style="color: #2174A8;">UbiComp/ISWC</span> (2024) • <span style="color: #2174A8;">CUI</span> (2025) • <span style="color: #2174A8;">HAI</span> (2024) • <span style="color: #2174A8;">ACM SUI</span> (2024)
-- **Others**: <span style="color: #2174A8;">CGI</span> (2025) • <span style="color: #2174A8;">ICIS</span> (2025)
+- Visualization: <span style="color: #2174A8;">IEEE Vis</span> (2023, 2024) • <span style="color: #2174A8;">Euro Vis</span> (2025) • <span style="color: #2174A8;">China Vis</span> (2022, 2023, 2024) • <span style="color: #2174A8;">China Graph</span> (2024)
+- Machine Learning & AI: <span style="color: #2174A8;">ICLR</span> (2024) • <span style="color: #2174A8;">CogSci</span> (2025)
+- Human-Computer Interaction: <span style="color: #2174A8;">UbiComp/ISWC</span> (2024) • <span style="color: #2174A8;">CUI</span> (2025) • <span style="color: #2174A8;">HAI</span> (2024) • <span style="color: #2174A8;">ACM SUI</span> (2024)
+- Others: <span style="color: #2174A8;">CGI</span> (2025) • <span style="color: #2174A8;">ICIS</span> (2025)
 
 **Journal Reviewer**
 - International Journal of Computer-Human Interaction (IJCHI)
