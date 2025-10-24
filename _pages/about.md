@@ -106,6 +106,7 @@ Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Zhou Liu, Zhentao Z
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Multimedia (TMM)
 - npj Heritage Science (Nature Portfolio)
+- Multimedia Systems (MS)
 
 
 
