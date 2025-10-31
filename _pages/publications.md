@@ -8,7 +8,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/MegaCQA.png" alt="MegaCQA Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Submitted</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Reviewing</div>
 </div>
 <div style="flex: 1;">
 <strong>MegaCQA: A chart question answering dataset for general visual understanding</strong><br>
@@ -25,7 +25,7 @@ Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Zhou Liu, Zhentao Z
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/ChartMind_CHI2026.png" alt="ChartMind Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Submitted</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Reviewing</div>
 </div>
 <div style="flex: 1;">
 <strong>ChartMind: Benchmark and Reasoning Insights of Multimodal Chart Question Answering</strong><br>
@@ -87,6 +87,23 @@ Qi Jiang, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Jingwei Tan
 ✅ <strong>IEEE Pacific Visualization Conference (PacificVis)</strong>, 2025
 </div>
 <a href="/files/PacificVis2025_Poster_A0.pdf" style="color: #2174A8; text-decoration: none;">[Poster]</a>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/jcad.png" alt="Jcad2025 Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Jcad</div>
+</div>
+<div style="flex: 1;">
+<strong>Visual Analysis Method for Compositional Understanding in Vision-Language Models</strong><br>
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Haixia Wng, Haidong Gao, Xu Tan & Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+✅ <strong>Journal of Computer-Aided Design & Computer Graphics</strong>, 2025
+</div>
+<a href="https://www.jcad.cn/article/doi/10.3724/SP.J.1089.2025-00071" style="color: #2174A8; text-decoration: none;">[Paper]</a>
 </div>
 </div>
 
