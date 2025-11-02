@@ -107,7 +107,8 @@ Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Zhou Liu, Zhentao Z
 - IEEE Transactions on Multimedia (TMM)
 - Artificial Intelligence Review
 - npj Heritage Science (Nature Portfolio)
-- Multimedia Systems (MS)
+- International Journal of Data Science and Analytics
+- Multimedia Systems
 
 
 
