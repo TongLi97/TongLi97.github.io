@@ -23,7 +23,7 @@ I am currently a Ph.D. student at Zhejiang University of Technology, where I joi
 <strong>ChartMind: Benchmark and Deconstruction for Multimodal Chart Reasoning</strong><br>
 <span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Shunkai Wang, Zuoyu Tang, Yang Shu, Xueqian Zheng, Zhentao Zheng, Qi Jiang, Haixia Wang & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
-🚀 Submitted to <strong> Science China Information Sciences (SCIS)</strong>, 2026
+🚀 Submitted to <strong> Science China Information Sciences (SCIS)</strong>, 2025
 </div>
 <a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
 <a href="https://huggingface.co/datasets/guodaosun/Mega60k" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
