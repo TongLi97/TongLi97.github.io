@@ -7,6 +7,25 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/ChartMind_CHI2026.png" alt="ChartMind Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Reviewing</div>
+</div>
+<div style="flex: 1;">
+<strong>ChartMind: Benchmark and Deconstruction for Multimodal Chart Reasoning</strong><br>
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun*, Shunkai Wang, Zuoyu Tang, Yang Shu, Xueqian Zheng, Zhentao Zheng, Qi Jiang, Haixia Wang & Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+🚀 <strong>Science China Information Sciences (SCIS)</strong>, 2025
+</div>
+<a href="https://huggingface.co/datasets/guodaosun/Mega60k" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
+<a href="https://tongli97.github.io/ChartMind/" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Project Web]</a>
+</div>
+</div>
+
+---
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/MegaCQA.png" alt="MegaCQA Paper" width="250" style="border-radius: 8px;">
 <div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Reviewing</div>
 </div>
@@ -17,24 +36,6 @@ Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Zhou Liu, Zhentao Z
 🚀 <strong>Scientific Data</strong> (Nature), 2025
 </div>
 <a href="https://github.com/zhengzhent/MegaCQA" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
-</div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
-<img src="/images/ChartMind_CHI2026.png" alt="ChartMind Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Reviewing</div>
-</div>
-<div style="flex: 1;">
-<strong>ChartMind: Benchmark and Reasoning Insights of Multimodal Chart Question Answering</strong><br>
-<span style="color: #2174A8;">Tong Li</span>, Guodao Sun*, Shunkai Wang, Zuoyu Tang, Yang Shu, Xueqian Zheng & Ronghua Liang<br>
-<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
-🚀 <strong>ACM Conference on Human Factors in Computing Systems (CHI)</strong>, 2026
-</div>
-<a href="https://huggingface.co/datasets/guodaosun/Mega60k" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
-<a href="https://tongli97.github.io/ChartMind/" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Project Web]</a>
 </div>
 </div>
 
