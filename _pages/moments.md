@@ -7,7 +7,7 @@ author_profile: true
 
 Beyond my research on multimodal understanding and visualization, I enjoy traveling and capturing the beauty of life. Here are some selected moments.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px; margin-top: 30px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px; margin-top: 30px; width: 100%; max-width: 1200px;">
 
   <div style="width: calc(33.33% - 14px); min-width: 250px; display: flex; flex-direction: column;">
     <div style="width: 100%; aspect-ratio: 4 / 3; overflow: hidden; border-radius: 8px; border: 1px solid #e1e4e8; background-color: #f6f8fa;">
