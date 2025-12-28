@@ -14,7 +14,7 @@ Beyond my research on multimodal understanding and visualization, I enjoy travel
       <img src="/images/mydog.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover; display: block; margin: 0 !important;">
     </div>
     <div style="display: flex; justify-content: space-between; padding: 10px 2px; font-size: 13px;">
-      <span style="color: #2174A8; font-weight: 600;">📍 Tampa, Florida</span>
+      <span style="color: #2174A8; font-weight: 600;">🐶 My dog Guodong</span>
       <span style="color: #999;">2024.10</span>
     </div>
   </div>
@@ -24,7 +24,7 @@ Beyond my research on multimodal understanding and visualization, I enjoy travel
       <img src="/images/mycat.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover; display: block; margin: 0 !important;">
     </div>
     <div style="display: flex; justify-content: space-between; padding: 10px 2px; font-size: 13px;">
-      <span style="color: #2174A8; font-weight: 600;">📍 West Lake, Hangzhou</span>
+      <span style="color: #2174A8; font-weight: 600;">🐱 My cat Xiaoman</span>
       <span style="color: #999;">2024.03</span>
     </div>
   </div>
@@ -34,7 +34,7 @@ Beyond my research on multimodal understanding and visualization, I enjoy travel
       <img src="/images/campus202306.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover; display: block; margin: 0 !important;">
     </div>
     <div style="display: flex; justify-content: space-between; padding: 10px 2px; font-size: 13px;">
-      <span style="color: #2174A8; font-weight: 600;">📍 ZJUT Campus</span>
+      <span style="color: #2174A8; font-weight: 600;">🏕️ Vis Lab Picnic</span>
       <span style="color: #999;">2023.06</span>
     </div>
   </div>
@@ -74,7 +74,7 @@ Beyond my research on multimodal understanding and visualization, I enjoy travel
       <img src="/images/picnic202004.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover; display: block; margin: 0 !important;">
     </div>
     <div style="display: flex; justify-content: space-between; padding: 10px 2px; font-size: 13px;">
-      <span style="color: #2174A8; font-weight: 600;">📍 Hangzhou</span>
+      <span style="color: #2174A8; font-weight: 600;">🏕️ Vis Lab Picnic</span>
       <span style="color: #999;">2020.04</span>
     </div>
   </div>
@@ -84,7 +84,7 @@ Beyond my research on multimodal understanding and visualization, I enjoy travel
       <img src="/images/picnic202511.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover; display: block; margin: 0 !important;">
     </div>
     <div style="display: flex; justify-content: space-between; padding: 10px 2px; font-size: 13px;">
-      <span style="color: #2174A8; font-weight: 600;">📍 Hangzhou</span>
+      <span style="color: #2174A8; font-weight: 600;">🏕️ Vis Lab Picnic</span>
       <span style="color: #999;">2025.11</span>
     </div>
   </div>
