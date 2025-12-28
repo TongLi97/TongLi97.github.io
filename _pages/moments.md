@@ -3,7 +3,6 @@ title: "Moments"
 permalink: /life/
 layout: single
 author_profile: true
-classes: wide
 ---
 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px; margin-top: 30px; width: 100%; max-width: 1200px;">
