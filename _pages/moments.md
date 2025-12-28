@@ -13,7 +13,7 @@ author_profile: true
     </div>
     <div style="display: flex; justify-content: space-between; padding: 10px 2px; font-size: 13px;">
       <span style="color: #2174A8; font-weight: 600;">🐶 My dog Guodong</span>
-      <span style="color: #999;">2024.10</span>
+      <span style="color: #999;"></span>
     </div>
   </div>
 
@@ -23,7 +23,7 @@ author_profile: true
     </div>
     <div style="display: flex; justify-content: space-between; padding: 10px 2px; font-size: 13px;">
       <span style="color: #2174A8; font-weight: 600;">🐱 My cat Xiaoman</span>
-      <span style="color: #999;">2024.03</span>
+      <span style="color: #999;"></span>
     </div>
   </div>
 
