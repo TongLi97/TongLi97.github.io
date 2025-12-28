@@ -7,7 +7,7 @@ author_profile: true
 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px; margin-top: 30px; width: 100%; max-width: 1200px;">
 
-  <div style="width: calc(33.33% - 10px); min-width: 250px; display: flex; flex-direction: column;">
+  <div style="width: calc(33.33% - 10px); min-width: 200px; display: flex; flex-direction: column;">
     <div style="width: 100%; aspect-ratio: 4 / 3; overflow: hidden; border-radius: 8px; border: 1px solid #e1e4e8; background-color: #f6f8fa;">
       <img src="/images/mydog.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover; display: block; margin: 0 !important;">
     </div>
@@ -17,7 +17,7 @@ author_profile: true
     </div>
   </div>
 
-  <div style="width: calc(33.33% - 10px); min-width: 250px; display: flex; flex-direction: column;">
+  <div style="width: calc(33.33% - 10px); min-width: 200px; display: flex; flex-direction: column;">
     <div style="width: 100%; aspect-ratio: 4 / 3; overflow: hidden; border-radius: 8px; border: 1px solid #e1e4e8; background-color: #f6f8fa;">
       <img src="/images/mycat.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover; display: block; margin: 0 !important;">
     </div>
@@ -27,7 +27,7 @@ author_profile: true
     </div>
   </div>
 
-  <div style="width: calc(33.33% - 10px); min-width: 250px; display: flex; flex-direction: column;">
+  <div style="width: calc(33.33% - 10px); min-width: 200px; display: flex; flex-direction: column;">
     <div style="width: 100%; aspect-ratio: 4 / 3; overflow: hidden; border-radius: 8px; border: 1px solid #e1e4e8; background-color: #f6f8fa;">
       <img src="/images/campus202306.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover; display: block; margin: 0 !important;">
     </div>
