@@ -7,6 +7,23 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/ChartMLens.png" alt="ChartMLens Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Reviewing</div>
+</div>
+<div style="flex: 1;">
+<strong>ChartMLens: Interactive Visual Analysis and Diagnosis of Multimodal LLM Reasoning in ChartQA</strong><br>
+<span style="color: #2174A8;">Tong Li</span>, Ruiyang Liang, Xi Chen, Yun Zhang, Baofeng Chang, Yuxiang Shan, Yanghua Gao, Guodao Sun* & Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+🚀 <strong>Visual Informatics (VI)</strong>, 2026
+</div>
+<a href="https://huggingface.co/datasets/RuiyangLiang/ChartM60k" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/ChartMind_CHI2026.png" alt="ChartMind Paper" width="250" style="border-radius: 8px;">
 <div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Reviewing</div>
 </div>
