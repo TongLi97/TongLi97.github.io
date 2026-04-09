@@ -20,7 +20,7 @@ I am currently a Ph.D. student at Zhejiang University of Technology, where I joi
 </div>
 <div style="flex: 1;">
 <strong>Edit, Verify, Reason: A Framework for Verified Chart Modification Question Answering</strong><br>
-<span style="color: #2174A8;">Tong Li</span>, Qi Jiang, Yunchao Wang, Wang Xia, Guodao Sun & Ronghua Liang<br>
+Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Qi Jiang, Yunchao Wang, Wang Xia, Guodao Sun & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
 🚀 Submitted to <strong> IEEE VIS </strong>, 2026
 </div>
