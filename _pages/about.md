@@ -19,12 +19,12 @@ redirect_from:
 
 
 
-## Work Experiences
+## Work Experiences 💼
 
 
 
 
-## Education
+## Education 🎓
 
 Ph.D. Student, Zhejiang University of Technology, 2019 – 2025<br>
 Data Visualization Group ([ZjutVis](https://zjutvis.org/))<br>
@@ -295,7 +295,7 @@ Guodao Sun*, <span style="color: #2174A8;">Tong Li</span> & Ronghua Liang<br>
 </div>
           
 
-## Academic Service & Review
+## Academic Service & Review 📝
 
 **Conference Reviewer**
 - Visualization: <span style="color: #2174A8;">IEEE Vis</span> (2023, 2024), <span style="color: #2174A8;">Euro Vis</span> (2025), <span style="color: #2174A8;">China Vis</span> (2022, 2023, 2024), <span style="color: #2174A8;">China Graph</span> (2024)
