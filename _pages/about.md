@@ -8,11 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at Zhejiang University of Technology, where I joined the [Data Visualization Group (ZjutVis)](https://zjutvis.org/) in 2019 under the supervision of [Prof. Ronghua Liang](https://www.zust.edu.cn/info/1016/16168.htm) and [Prof. Guodao Sun](https://homepage.zjut.edu.cn//sgd/). My research focuses on interactive visual analysis methods for multimodal (image, video, text) data and cross-modal understanding — bridging human insight with computational intelligence in multimodal understanding.
+<div style="margin-bottom: 30px;">
+  <strong style="font-size: 1.2em;">Tong Li (李彤)</strong><br>
+  Ph.D. Student<br>
+  <span style="color: #555;">Data Visualization Group (ZjutVis)</span><br>
+  Zhejiang University of Technology<br>
+  <strong>Email:</strong> <span style="color: #2174A8;">litong@zjut.edu.cn</span>
+</div>
 
-<img src="/images/email.png" width="25px" height="25px"> **litong@zjut.edu.cn**
+**Research Interests:**  
+Interactive Visual Analysis · Human-Computer Interaction · Human-Multimodal Data · Model Interpretability
 
-## Recent Publication 🎉
+
+## Work Experiences
+
+
+
+
+## Education
+
+**Ph.D. Student**, Zhejiang University of Technology, 2019 – present  
+- Data Visualization Group ([ZjutVis](https://zjutvis.org/))  
+- Supervisors: [Prof. Ronghua Liang](https://www.zust.edu.cn/info/1016/16168.htm) & [Prof. Guodao Sun](https://homepage.zjut.edu.cn/sgd/)
+
+**M.S. Student**, Zhejiang University of Technology, 2019 – present  
+- Data Visualization Group ([ZjutVis](https://zjutvis.org/))  
+- Supervisors: [Prof. Ronghua Liang](https://www.zust.edu.cn/info/1016/16168.htm) & [Prof. Guodao Sun](https://homepage.zjut.edu.cn/sgd/)
+
+
+## Publications 🎉
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/EVRAgent.png" alt="EVRAgent Paper" width="250" style="border-radius: 8px;">
@@ -70,16 +94,15 @@ Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Qi Jiang, Yunchao W
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
-<img src="/images/MegaCQA.png" alt="ChartMind Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Submitted</div>
+<img src="/images/MegaCQA.png" alt="MegaCQA Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Reviewing</div>
 </div>
 <div style="flex: 1;">
 <strong>MegaCQA: A chart question answering dataset for general visual understanding</strong><br>
 Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Zhou Liu, Zhentao Zheng, Xuhui Ma, Guodao Sun*, Qi Jiang* & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
-🚀 Submitted to <strong> Scientific Data (Nature) </strong>
+🚀 <strong>Scientific Data</strong> (Nature), 2025
 </div>
-<a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
 <a href="https://github.com/zhengzhent/MegaCQA" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
 </div>
 </div>
@@ -93,11 +116,10 @@ Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Zhou Liu, Zhentao Z
 </div>
 <div style="flex: 1;">
 <strong>CompoVis: Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt</strong><br>
-<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Xueqian Zheng, Qi Jiang, Wang Xia, Xu Tan, Haidong Gao, Haixia Wang & Ronghua Liang<br>
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun*, Xueqian Zheng, Qi Jiang, Wang Xia, Xu Tan, Haidong Gao, Haixia Wang & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
-✅ Accepted by <strong>IEEE Transactions on Multimedia (TMM)</strong>, August 2025
+✅ <strong>IEEE Transactions on Multimedia (TMM)</strong>, 2025
 </div>
-<a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
 <a href="https://huggingface.co/datasets/guodaosun/CompoVIS" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
 <a href="https://github.com/TongLi97/HERCSOM-layout" style="color: #2174A8; text-decoration: none;">[Algorithm]</a>
 </div>
@@ -107,24 +129,171 @@ Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Zhou Liu, Zhentao Z
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
-<img src="/images/PacificVis2025.png" alt="PacificVis Poster" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Pacific Vis 2025</div>
+<img src="/images/AutoMA.png" alt="AutoMA Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">PacificVis</div>
+</div>
+<div style="flex: 1;">
+<strong>AutoMA: Automated Generation of Multi-level Annotations for Time Series Visualization</strong><br>
+Qi Jiang, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Jingwei Tang, Wang Xia, Yunchao Wang, Li Jiang & Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+✅ <strong>IEEE Pacific Visualization Conference (PacificVis)</strong>, 2025
+</div>
+<a href="https://ieeexplore.ieee.org/document/11021060" style="color: #2174A8; text-decoration: none;">[Paper]</a>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/PacificVis2025.png" alt="PacificVis2025 Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">PacificVis</div>
 </div>
 <div style="flex: 1;">
 <strong>Probing the Compositional Understanding in VLMs with Visualization Representation and Insights</strong><br>
-<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Xueqian Zheng, Haixia Wang & Ronghua Liang<br>
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun*, Xueqian Zheng, Haixia Wang & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
-✅ Accepted by <strong>IEEE Pacific Visualization Conference (PacificVis)</strong>, 2025
+✅ <strong>IEEE Pacific Visualization Conference (PacificVis)</strong>, 2025
 </div>
-<a href="/files/PacificVis2025_Poster_A0.pdf" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Poster]</a>
+<a href="/files/PacificVis2025_Poster_A0.pdf" style="color: #2174A8; text-decoration: none;">[Poster]</a>
 </div>
-</div>                              
-                                                                                                                                                                    
+</div>
 
-<!--Education
-======
-<img src="/images/hat.png" width="30px" height="30px"> Ph.D. in Computer Science and Technology, Zhejiang University of Technology. 2019 - Now                          
-<img src="/images/hat.png" width="30px" height="30px"> B.E. in Software Engineering, Tianjin Normal University. 2015 - 2019              -->
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/jcad.png" alt="Jcad2025 Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Jcad</div>
+</div>
+<div style="flex: 1;">
+<strong>Visual Analysis Method for Compositional Understanding in Vision-Language Models</strong><br>
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun, Haixia Wng, Haidong Gao, Xu Tan & Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+✅ <strong>Journal of Computer-Aided Design & Computer Graphics</strong>, 2025
+</div>
+<a href="https://www.jcad.cn/article/doi/10.3724/SP.J.1089.2025-00071" style="color: #2174A8; text-decoration: none;">[Paper]</a>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/Skelemap.jpg" alt="Skelemap Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">JoV</div>
+</div>
+<div style="flex: 1;">
+<strong>skelemap: skeleton-based boundary growth for efficient and automated cartogram generation</strong><br>
+Yunchao Wang, Guodao Sun*, Zihao Zhu, <span style="color: #2174A8;">Tong Li</span> & Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+✅ <strong>Journal of Visualization</strong>, 2024
+</div>
+<a href="https://link.springer.com/article/10.1007/s12650-024-01031-8" style="color: #2174A8; text-decoration: none;">[Paper]</a>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/xia.png" alt="Video Visualization Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TCSVT</div>
+</div>
+<div style="flex: 1;">
+<strong>Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation</strong><br>
+Wang Xia, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Baofeng Chang, Jingwei Tang, Gefei Zhang & Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+✅ <strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</strong>, 2024
+</div>
+<a href="/files/xia.pdf" style="color: #2174A8; text-decoration: none;">[Paper]</a>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/Lander.png" alt="LANDER Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE THMS</div>
+</div>
+<div style="flex: 1;">
+<strong>LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video</strong><br>
+<span style="color: #2174A8;">Tong Li</span>, Guodao Sun*, Baofeng Chang, Yunchao Wang, Qi Jiang, Yuanzhong Ying, Li Jiang, Haixia Wang & Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+✅ <strong>IEEE Transactions on Human-Machine Systems (THMS)</strong>, 2024
+</div>
+<a href="https://ieeexplore.ieee.org/document/10570041" style="color: #2174A8; text-decoration: none;">[Paper]</a>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/Qutaber.png" alt="Qutaber Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">ChinaVis</div>
+</div>
+<div style="flex: 1;">
+<strong>Qutaber: Task-based Exploratory Data Analysis with Enriched Context Awareness</strong><br>
+Qi Jiang, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Jingwei Tang, Wang Xia, Sujia Zhu & Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+✅ <strong>China Conference on Data Visualization (China Vis)</strong>, 2023
+</div>
+<a href="https://link.springer.com/article/10.1007/s12650-024-00975-1" style="color: #2174A8; text-decoration: none;">[Paper]</a>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/Storyline.png" alt="E2Storyline Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">ACM TIST</div>
+</div>
+<div style="flex: 1;">
+<strong>E2Storyline: Visualizing the Relationship with Triplet Entities and Event Discovery</strong><br>
+Yunchao Wang, Guodao Sun*, Zihao Zhu, <span style="color: #2174A8;">Tong Li</span>, Ling Chen & Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+✅ <strong>ACM Transactions on Intelligent Systems and Technology (TIST)</strong>, 2023
+</div>
+<a href="/files/Storyline.pdf" style="color: #2174A8; text-decoration: none;">[Paper]</a>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/MUSE.png" alt="MUSE Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">IEEE TVCG</div>
+</div>
+<div style="flex: 1;">
+<strong>MUSE: Visual Analysis of Musical Semantic Sequence</strong><br>
+Baofeng Chang, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Houchao Huang, Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+✅ <strong>IEEE Transactions on Visualization and Computer Graphics (TVCG)</strong>, 2022
+</div>
+<a href="/files/MUSE.pdf" style="color: #2174A8; text-decoration: none;">[Paper]</a>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/SurVizor.png" alt="SurVizor Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">ChinaVis</div>
+</div>
+<div style="flex: 1;">
+<strong>SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos</strong><br>
+Guodao Sun*, <span style="color: #2174A8;">Tong Li</span> & Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+✅ <strong>China Conference on Data Visualization (China Vis)</strong>, 2021
+</div>
+<a href="/files/SurVizor.pdf" style="color: #2174A8; text-decoration: none;">[Paper]</a>
+</div>
+</div>
           
 
 ## Academic Service & Review
