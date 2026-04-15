@@ -9,15 +9,14 @@ redirect_from:
 ---
 
 <div style="margin-bottom: 30px;">
-  <strong style="font-size: 1.2em;">Tong Li (李彤)</strong><br>
+  <strong style="font-size: 1.2em;">Tong Li (李童)</strong><br>
   Ph.D. Student<br>
   <span style="color: #555;">Data Visualization Group (ZjutVis)</span><br>
   Zhejiang University of Technology<br>
-  <strong>Email:</strong> <span style="color: #2174A8;">litong@zjut.edu.cn</span>
+  <strong>Email:</strong> <span style="color: #2174A8;">litong@zjut.edu.cn</span><br>
+  <strong>Research Interests:</strong> <span style="color: #2174A8;">Interactive Visual Analysis · Human-Computer Interaction · Human-Multimodal Data · Model Interpretability</span>
 </div>
 
-**Research Interests:**  
-Interactive Visual Analysis · Human-Computer Interaction · Human-Multimodal Data · Model Interpretability
 
 
 ## Work Experiences
@@ -27,13 +26,13 @@ Interactive Visual Analysis · Human-Computer Interaction · Human-Multimodal Da
 
 ## Education
 
-**Ph.D. Student**, Zhejiang University of Technology, 2019 – present  
-- Data Visualization Group ([ZjutVis](https://zjutvis.org/))  
-- Supervisors: [Prof. Ronghua Liang](https://www.zust.edu.cn/info/1016/16168.htm) & [Prof. Guodao Sun](https://homepage.zjut.edu.cn/sgd/)
+Ph.D. Student, Zhejiang University of Technology, 2019 – 2025<br>
+Data Visualization Group ([ZjutVis](https://zjutvis.org/))<br>
+Supervisors: [Prof. Ronghua Liang](https://www.zust.edu.cn/info/1016/16168.htm) & [Prof. Guodao Sun](https://homepage.zjut.edu.cn/sgd/)
 
-**M.S. Student**, Zhejiang University of Technology, 2019 – present  
-- Data Visualization Group ([ZjutVis](https://zjutvis.org/))  
-- Supervisors: [Prof. Ronghua Liang](https://www.zust.edu.cn/info/1016/16168.htm) & [Prof. Guodao Sun](https://homepage.zjut.edu.cn/sgd/)
+M.S. Student, Zhejiang University of Technology, 2019 – 2025<br>
+Data Visualization Group ([ZjutVis](https://zjutvis.org/))<br>
+Supervisors: [Prof. Ronghua Liang](https://www.zust.edu.cn/info/1016/16168.htm) & [Prof. Guodao Sun](https://homepage.zjut.edu.cn/sgd/)
 
 
 ## Publications 🎉
