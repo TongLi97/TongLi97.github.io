@@ -29,6 +29,26 @@ author_profile: true
 
   <div style="width: calc(30% - 10px); min-width: 300px; display: flex; flex-direction: column;">
     <div style="width: 100%; aspect-ratio: 4 / 3; overflow: hidden; border-radius: 8px; border: 1px solid #e1e4e8; background-color: #f6f8fa;">
+      <img src="/images/graduate.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover; display: block; margin: 0 !important;">
+    </div>
+    <div style="display: flex; justify-content: space-between; padding: 10px 2px; font-size: 13px;">
+      <span style="color: #2174A8; font-weight: 600;">🎓 PhD Defense </span>
+      <span style="color: #999;">2025.12</span>
+    </div>
+  </div>
+
+  <div style="width: calc(30% - 10px); min-width: 300px; display: flex; flex-direction: column;">
+    <div style="width: 100%; aspect-ratio: 4 / 3; overflow: hidden; border-radius: 8px; border: 1px solid #e1e4e8; background-color: #f6f8fa;">
+      <img src="/images/yocsef.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover; display: block; margin: 0 !important;">
+    </div>
+    <div style="display: flex; justify-content: space-between; padding: 10px 2px; font-size: 13px;">
+      <span style="color: #2174A8; font-weight: 600;">🗨️ YOCSEF</span>
+      <span style="color: #999;">2026.01</span>
+    </div>
+  </div>
+
+  <div style="width: calc(30% - 10px); min-width: 300px; display: flex; flex-direction: column;">
+    <div style="width: 100%; aspect-ratio: 4 / 3; overflow: hidden; border-radius: 8px; border: 1px solid #e1e4e8; background-color: #f6f8fa;">
       <img src="/images/campus202306.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover; display: block; margin: 0 !important;">
     </div>
     <div style="display: flex; justify-content: space-between; padding: 10px 2px; font-size: 13px;">
