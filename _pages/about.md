@@ -14,7 +14,7 @@ redirect_from:
   <span style="color: #555;">Data Visualization Group (ZjutVis)</span><br>
   Zhejiang University of Technology<br>
   <strong>Email:</strong> <span style="color: #2174A8;">litong@zjut.edu.cn</span><br>
-  <strong>Research Interests:</strong> <span style="color: #2174A8;">Interactive Visual Analysis · Human-Computer Interaction · Human-Multimodal Data · Model Interpretability</span>
+  <strong>Research Interests:</strong> <span style="color: #2174A8;">Interactive Visual Analysis · Human-Computer Interaction · Multimodal Data · Model Interpretability</span>
 </div>
 
 
