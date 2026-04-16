@@ -293,6 +293,11 @@ Guodao Sun*, <span style="color: #2174A8;">Tong Li</span> & Ronghua Liang<br>
 <a href="/files/SurVizor.pdf" style="color: #2174A8; text-decoration: none;">[Paper]</a>
 </div>
 </div>
+
+## Awards & Competitions 🏆
+
+第八届中国研究生智慧城市技术与创意设计大赛，国家级三等奖，2023<br> 
+第十一届中国大学生服务外包创新创业大赛，国家三等奖，2020<br> 
           
 
 ## Academic Service & Review 📝
