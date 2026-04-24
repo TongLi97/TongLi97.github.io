@@ -10,29 +10,30 @@ redirect_from:
 
 <div style="margin-bottom: 30px;">
   <strong style="font-size: 1.2em;">Tong Li (李童)</strong><br>
-  Ph.D. Student<br>
-  <span style="color: #555;">Data Visualization Group (ZjutVis)</span><br>
-  Zhejiang University of Technology<br>
+  Lecturer<br>
+  School of Media Engineering, Communication University of Zhejiang<br>
+  <span style="color: #555;">Media Computing and Visualization Group</span><br>
   <strong>Email:</strong> <span style="color: #2174A8;">litong@zjut.edu.cn</span><br>
-  <strong>Research Interests:</strong> <span style="color: #2174A8;">Interactive Visual Analysis · Human-Computer Interaction · Multimodal Data · Model Interpretability</span>
+  <strong>Research Interests:</strong> <span style="color: #2174A8;">Interactive Visual Analysis · Human-Computer Interaction · Vision-Language Model</span>
 </div>
 
 
 
 ## Work Experiences 💼
-
-
+Lecturer, Communication University of Zhejiang, 2026 – Present<br>
+Media Computing and Visualization Group<br>
+Supervisors: [Prof. Dingguo Yu (俞定国)](https://mtgc.cuz.edu.cn/info/1491/11852.htm) & [Prof. Yun Zhang (张赟)](https://yunzhang-cuz.github.io)
 
 
 ## Education 🎓
 
 Ph.D. Student, Zhejiang University of Technology, 2019 – 2025<br>
 Data Visualization Group ([ZjutVis](https://zjutvis.org/))<br>
-Supervisors: [Prof. Ronghua Liang](https://www.zust.edu.cn/info/1016/16168.htm) & [Prof. Guodao Sun](https://homepage.zjut.edu.cn/sgd/)
+Supervisors: [Prof. Ronghua Liang (梁荣华)](https://www.zust.edu.cn/info/1016/16168.htm) & [Prof. Guodao Sun (孙国道)](https://homepage.zjut.edu.cn/sgd/)
 
 M.S. Student, Zhejiang University of Technology, 2019 – 2025<br>
 Data Visualization Group ([ZjutVis](https://zjutvis.org/))<br>
-Supervisors: [Prof. Ronghua Liang](https://www.zust.edu.cn/info/1016/16168.htm) & [Prof. Guodao Sun](https://homepage.zjut.edu.cn/sgd/)
+Supervisors: [Prof. Ronghua Liang (梁荣华)](https://www.zust.edu.cn/info/1016/16168.htm) & [Prof. Guodao Sun (孙国道)](https://homepage.zjut.edu.cn/sgd/)
 
 
 ## Publications 🎉
@@ -304,7 +305,7 @@ Guodao Sun*, <span style="color: #2174A8;">Tong Li</span> & Ronghua Liang<br>
 
 **Conference Reviewer**
 - Visualization: <span style="color: #2174A8;">IEEE Vis</span> (2023, 2024), <span style="color: #2174A8;">Euro Vis</span> (2025), <span style="color: #2174A8;">China Vis</span> (2022, 2023, 2024), <span style="color: #2174A8;">China Graph</span> (2024)
-- Machine Learning & AI: <span style="color: #2174A8;">ICLR</span> (2024, 2026), <span style="color: #2174A8;">CogSci</span> (2025, 2026)
+- Machine Learning & AI: <span style="color: #2174A8;">ICLR</span> (2024, 2026), <span style="color: #2174A8;">ACM MM</span> (2025, 2026), <span style="color: #2174A8;">CogSci</span> (2025, 2026)
 - Human-Computer Interaction: <span style="color: #2174A8;">UbiComp/ISWC</span> (2024), <span style="color: #2174A8;">CUI</span> (2025), <span style="color: #2174A8;">HAI</span> (2024), <span style="color: #2174A8;">ACM SUI</span> (2024)
 - Others: <span style="color: #2174A8;">IEEE VR</span> (2026), <span style="color: #2174A8;">CGI</span> (2025), <span style="color: #2174A8;">ICIS</span> (2025)
 
