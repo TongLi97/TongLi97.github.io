@@ -10,11 +10,13 @@ redirect_from:
 
 <div style="margin-bottom: 30px;">
   <strong style="font-size: 1.2em;">Tong Li (李童)</strong><br>
-  Lecturer<br>
-  School of Media Engineering, Communication University of Zhejiang<br>
-  <span style="color: #555;">Media Computing and Visualization Group</span><br>
+  Media Computing and Visualization Group, [Communication University of Zhejiang](https://www.cuz.edu.cn/)<br><br>
+
+  
+ <!-- Tong Li is a lecturer at the School of Media Engineering, Communication University of Zhejiang. Her research lies at the intersection of artificial intelligence and visual analytics, with recent focus on data visualization, model interpretability, and vision-language learning. She has published over 15 papers in related fields, received 3 Best Paper Awards and 7 Honorable Mentions for Best Paper Awards. She has also served as Principal Investigator for 5 national-level funded projects, including key programs of the National Key R&D Plan of China and the National Natural Science Foundation of China (NSFC). -->
+
   <strong>Email:</strong> <span style="color: #2174A8;">litong@zjut.edu.cn</span><br>
-  <strong>Research Interests:</strong> <span style="color: #2174A8;">Interactive Visual Analysis · Human-Computer Interaction · Vision-Language Model</span>
+  <strong>Research Interests:</strong> <span style="color: #2174A8;">Interactive Visual Analysis · Vision-Language Learning · Model Interpretability</span>
 </div>
 
 
@@ -22,7 +24,7 @@ redirect_from:
 ## Work and Education Experiences 🎓
 Lecturer, Communication University of Zhejiang, 2026 – Present<br>
 Media Computing and Visualization Group<br>
-Supervisors: [Prof. Dingguo Yu (俞定国)](https://mtgc.cuz.edu.cn/info/1491/11852.htm) & [Prof. Yun Zhang (张赟)](https://yunzhang-cuz.github.io)
+Supervisors: [Prof. Dingguo Yu (俞定国)](https://mtgc.cuz.edu.cn/info/1491/11852.htm) & [Prof. Yun Zhang (张赟)](https://yunzhang-cuz.github.io) 
 
 Ph.D. Student, Zhejiang University of Technology, 2019 – 2025<br>
 Data Visualization Group ([ZjutVis](www.zjutvis.cn))<br>
