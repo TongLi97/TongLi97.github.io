@@ -19,20 +19,13 @@ redirect_from:
 
 
 
-## Work Experiences 💼
+## Work and Education Experiences 🎓
 Lecturer, Communication University of Zhejiang, 2026 – Present<br>
 Media Computing and Visualization Group<br>
 Supervisors: [Prof. Dingguo Yu (俞定国)](https://mtgc.cuz.edu.cn/info/1491/11852.htm) & [Prof. Yun Zhang (张赟)](https://yunzhang-cuz.github.io)
 
-
-## Education 🎓
-
 Ph.D. Student, Zhejiang University of Technology, 2019 – 2025<br>
-Data Visualization Group ([ZjutVis](https://zjutvis.org/))<br>
-Supervisors: [Prof. Ronghua Liang (梁荣华)](https://www.zust.edu.cn/info/1016/16168.htm) & [Prof. Guodao Sun (孙国道)](https://homepage.zjut.edu.cn/sgd/)
-
-M.S. Student, Zhejiang University of Technology, 2019 – 2025<br>
-Data Visualization Group ([ZjutVis](https://zjutvis.org/))<br>
+Data Visualization Group ([ZjutVis](www.zjutvis.cn))<br>
 Supervisors: [Prof. Ronghua Liang (梁荣华)](https://www.zust.edu.cn/info/1016/16168.htm) & [Prof. Guodao Sun (孙国道)](https://homepage.zjut.edu.cn/sgd/)
 
 
