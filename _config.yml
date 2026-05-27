@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tong Li"
 title_separator          : "-"
 name                     : &name "Tong Li (李童)"
-description              : &description "Ph.D. at Zhejiang University of Technology"
+description              : &description "Lecturer at Communication University of Zhejiang (CUZ)"
 url                      : https://TongLi97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TongLi97/TongLi97.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Tong Li (李童)"
   avatar           : "profile.png"
-  bio              : "PH.D. at Zhejiang University of Technology, an explorer in the field of visual analytics."
+  bio              : "Lecturer at Communication University of Zhejiang (CUZ), an explorer in the field of visual analysis."
   location         : "Hangzhou, Zhejiang"
   employer         :
   pubmed           :
