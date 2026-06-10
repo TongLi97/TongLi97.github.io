@@ -11,7 +11,7 @@ redirect_from:
 <div style="margin-bottom: 30px;">
   <strong style="font-size: 1.2em;">Tong Li (李童)</strong><br><br>
 
-  Tong Li is a lecturer at the School of Media Engineering, Communication University of Zhejiang. Her research lies at the intersection of artificial intelligence and visual analytics, with recent focus on data visualization, model interpretability, and vision-language learning.<br><br>
+  Tong Li is a lecturer at the College of Media Engineering, Communication University of Zhejiang. Her research lies at the intersection of artificial intelligence and visual analytics, with recent focus on data visualization, model interpretability, and vision-language learning.<br><br>
 
  <!-- Tong Li is a lecturer at the School of Media Engineering, Communication University of Zhejiang. Her research lies at the intersection of artificial intelligence and visual analytics, with recent focus on data visualization, model interpretability, and vision-language learning. She has published over 15 papers in related fields, received 3 Best Paper Awards and 7 Honorable Mentions for Best Paper Awards. She has also served as Principal Investigator for 5 national-level funded projects, including key programs of the National Key R&D Plan of China and the National Natural Science Foundation of China (NSFC). -->
 
