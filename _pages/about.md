@@ -56,7 +56,7 @@ Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Qi Jiang, Yunchao W
 <div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">ChinaVis 2026</div>
 </div>
 <div style="flex: 1;">
-<strong>NOVA: Knowledge-Augmented Visual Analysis for Automated Graph Layout Optimization(</strong><br>
+<strong>NOVA: Knowledge-Augmented Visual Analysis for Automated Graph Layout Optimization</strong><br>
 Nuo Xu, <span style="color: #2174A8;">Tong Li*</span>, Siyu Mao, Chenze Li, Qi Jiang, Xueqian Zheng, Yunchao Wang, Guodao Sun & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
 🚀 Submitted to <strong> ChinaVis 2026 </strong><br>
