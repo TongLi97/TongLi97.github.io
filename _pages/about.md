@@ -34,24 +34,6 @@ Supervisors: [Prof. Ronghua Liang (梁荣华)](https://www.zust.edu.cn/info/1016
 ## Publications 🎉
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
-<img src="/images/VIS4VL.png" alt="VIS4VL Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Submitted</div>
-</div>
-<div style="flex: 1;">
-<strong>Vis4VL: Visualization-Empowered Vision-Language Analysis</strong><br>
-<span style="color: #2174A8;">Tong Li</span>, NuoXu, Xi Chen, Yanwan He, Chaoyu Chen, Dingguo Yu, Yun Zhang*, Ronghua Liang & Guodao Sun<br>
-<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
-🚀 Submitted to <strong> IEEE Transactions on Visualization and Computer Graphics (TVCG)</strong>, 2026<br>
-💎 <strong> CCF-A </strong>, <strong> JCR Q1 </strong>
-</div>
-<a href="https://vis4vl-survey.vercel.app/" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Website]</a>
-</div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/EVRAgent.png" alt="EVRAgent Paper" width="250" style="border-radius: 8px;">
 <div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Submitted</div>
 </div>
@@ -63,6 +45,41 @@ Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Qi Jiang, Yunchao W
 💎 <strong> CCF-A </strong>
 </div>
 <a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/NOVA.png" alt="NOVA Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">ChinaVis 2026</div>
+</div>
+<div style="flex: 1;">
+<strong>NOVA: Knowledge-Augmented Visual Analysis for Automated Graph Layout Optimization(</strong><br>
+Nuo Xu, <span style="color: #2174A8;">Tong Li*</span>, Siyu Mao, Chenze Li, Qi Jiang, Xueqian Zheng, Yunchao Wang, Guodao Sun & Ronghua Liang<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+🚀 Submitted to <strong> ChinaVis 2026 </strong><br>
+</div>
+<a href="/files/NOVA.pdf" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/VIS4VL.png" alt="VIS4VL Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Submitted</div>
+</div>
+<div style="flex: 1;">
+<strong>Vis4VL: Visualization-Empowered Vision-Language Analysis</strong><br>
+<span style="color: #2174A8;">Tong Li</span>, NuoXu, Xi Chen, Yanwan He, Chaoyu Chen, Dingguo Yu, Yun Zhang*, Ronghua Liang & Guodao Sun<br>
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+🚀 Submitted to <strong> IEEE Transactions on Visualization and Computer Graphics (TVCG)</strong>, 2026<br>
+💎 <strong> CCF-A </strong>, <strong> JCR Q1 </strong>
+</div>
+<a href="https://vis4vl-survey.vercel.app/" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Website]</a>
 </div>
 </div>
 
