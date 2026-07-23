@@ -173,7 +173,7 @@ Qi Jiang, Guodao Sun*, <span style="color: #2174A8;">Tong Li</span>, Jingwei Tan
 ✅ <strong>IEEE Pacific Visualization Conference (PacificVis)</strong>, 2025<br>
 💎 <strong> CCF-C </strong>
 </div>
-<a href="https://ieeexplore.ieee.org/document/11021060" style="color: #2174A8; text-decoration: none;">[Paper]</a>
+<a href="/files/AutoMA.pdf" style="color: #2174A8; text-decoration: none;">[Paper]</a>
 </div>
 </div>
 
