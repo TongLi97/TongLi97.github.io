@@ -85,6 +85,24 @@ Nuo Xu, <span style="color: #2174A8;">Tong Li*</span>, Siyu Mao, Chenze Li, Qi J
 
 ---
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="position: relative; flex-shrink: 0; margin-right: 20px;">
+<img src="/images/AttenIR.png" alt="AttenIR Paper" width="250" style="border-radius: 8px;">
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Reviewing</div>
+</div>
+<div style="flex: 1;">
+<strong>AttenIR: Aligning Dense Visual Attention with Mesh Warping for Unsupervised Image Retargeting</strong><br>
+Yun Zhang, Zhiruo Zhang, Lifei Zhu, Zhe Zhu, <span style="color: #2174A8;">Tong Li</span>, Fang-Lue Zhang, Shengjuan Liu & Xinyuan Zheng
+<div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
+🚀 <strong> The Visual Computer</strong>, 2026<br>
+💎 <strong> CCF-C </strong>, <strong> JCR Q2 </strong>
+</div>
+<a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
+</div>
+</div>
+
+---
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
