@@ -350,13 +350,14 @@ Guodao Sun*, <span style="color: #2174A8;">Tong Li</span> & Ronghua Liang<br>
 - Others: <span style="color: #2174A8;">IEEE VR</span> (2026), <span style="color: #2174A8;">CGI</span> (2025), <span style="color: #2174A8;">ICIS</span> (2025)
 
 **Journal Reviewer**
-- International Journal of Computer-Human Interaction (IJCHI)
-- IEEE Transactions on Human-Machine Systems (THMS)
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Multimedia (TMM)
+- International Journal of Computer-Human Interaction (IJCHI)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Transactions on Human-Machine Systems (THMS)
+- International Journal of Data Science and Analytics (IJDSA)
+- The Visual Computer
 - Artificial Intelligence Review
 - npj Heritage Science (Nature Portfolio)
-- International Journal of Data Science and Analytics
 - Multimedia Systems
 
 
