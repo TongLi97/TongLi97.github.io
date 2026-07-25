@@ -19,7 +19,7 @@ redirect_from:
   <strong>Research Interests:</strong> <span style="color: #2174A8;">Interactive Visual Analysis · Vision-Language Learning · Model Interpretability</span><br>
   <br>
   
-  欢迎自驱力强、勤勉踏实、注重团队协作的本科生和研究生同学加入，共同参与学科竞赛、论文发表与科研项目，积累优质学术与实践履历。感兴趣的同学可将简历发送至邮箱👆
+  欢迎自驱力强、勤勉踏实、注重团队协作的本科生和研究生同学加入，共同参与学科竞赛、论文发表与科研项目，积累优质学术与实践履历。感兴趣的同学可将简历发送至邮箱👆<br>
   办公地点：创新楼（第一实验楼）#415
 </div>
 
