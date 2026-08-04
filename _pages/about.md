@@ -365,6 +365,10 @@ Guodao Sun*, <span style="color: #2174A8;">Tong Li</span> & Ronghua Liang<br>
 
 ## Academic Service & Review 📝
 
+**Program Committee Member**
+- VINCI 2026
+
+  
 **Conference Reviewer**
 - Visualization: <span style="color: #2174A8;">IEEE Vis</span> (2023, 2024), <span style="color: #2174A8;">Euro Vis</span> (2025), <span style="color: #2174A8;">China Vis</span> (2022, 2023, 2024), <span style="color: #2174A8;">China Graph</span> (2024)
 - Machine Learning & AI: <span style="color: #2174A8;">ICLR</span> (2024, 2026), <span style="color: #2174A8;">ACM MM</span> (2025, 2026), <span style="color: #2174A8;">CogSci</span> (2025, 2026)
