@@ -365,9 +365,12 @@ Guodao Sun*, <span style="color: #2174A8;">Tong Li</span> & Ronghua Liang<br>
 
 ## Academic Service & Review 📝
 
+**学会团体**
+— 中国图象图形学会可视化与可视分析专委会 CSIG-VIS，委员
+— 中国计算机学会计算机辅助设计与图形学专业委员会 CCF CAG/CG，执行委员
+
 **Program Committee Member**
 - VINCI 2026
-
   
 **Conference Reviewer**
 - Visualization: <span style="color: #2174A8;">IEEE Vis</span> (2023, 2024), <span style="color: #2174A8;">Euro Vis</span> (2025), <span style="color: #2174A8;">China Vis</span> (2022, 2023, 2024), <span style="color: #2174A8;">China Graph</span> (2024)
