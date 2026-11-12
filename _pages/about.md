@@ -371,6 +371,7 @@ Guodao Sun*, <span style="color: #2174A8;">Tong Li</span> & Ronghua Liang<br>
 
 **Program Committee Member**
 - VINCI 2026
+- IUI 2027
   
 **Conference Reviewer**
 - Visualization: <span style="color: #2174A8;">IEEE Vis</span> (2023, 2024), <span style="color: #2174A8;">Euro Vis</span> (2025), <span style="color: #2174A8;">China Vis</span> (2022, 2023, 2024), <span style="color: #2174A8;">China Graph</span> (2024)
