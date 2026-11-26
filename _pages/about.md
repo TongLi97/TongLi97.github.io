@@ -39,14 +39,14 @@ Supervisors: [Prof. Ronghua Liang (梁荣华)](https://www.zust.edu.cn/info/1016
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
 <img src="/images/EVRAgent.png" alt="EVRAgent Paper" width="250" style="border-radius: 8px;">
-<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Submitted</div>
+<div style="position: absolute; top: 4px; left: -4px; background-color: #2174A8; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">Reviewing</div>
 </div>
 <div style="flex: 1;">
-<strong>Edit, Verify, Reason: A Multi-Agent Framework for Chart Modification Question Answering</strong><br>
-Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Qi Jiang, Yunchao Wang, Wang Xia, Guodao Sun & Ronghua Liang<br>
+<strong>VisTrace: Tracing Visual Evidence from Chart Edits to Answers</strong><br>
+Xueqian Zheng, <span style="color: #2174A8;">Tong Li</span>, Qi Jiang, Guodao Sun & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
-🚀 <strong> AAAI 2027</strong><br>
-💎 <strong> CCF-A </strong>
+🚀 <strong> Euro Vis 2027</strong><br>
+💎 <strong> CCF-B </strong>
 </div>
 <a href="#" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
 </div>
